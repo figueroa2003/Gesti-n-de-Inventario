@@ -1,0 +1,20 @@
+[
+  {
+    "id": "A100",
+    "nombre": "Teclado Mecánico",
+    "cantidad": 10,
+    "precio": 59.99
+  },
+  {
+    "id": "A101",
+    "nombre": "Mouse Inalámbrico",
+    "cantidad": 25,
+    "precio": 19.5
+  },
+  {
+    "id": "B200",
+    "nombre": "Monitor 24\"",
+    "cantidad": 7,
+    "precio": 129.9
+  }
+]
