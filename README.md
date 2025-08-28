@@ -1,7 +1,7 @@
 ---
 Entregado por: Paul Figueroa
 Fecha de entrega: domingo, 31 de agosto de 2025
-Universidad: Universidad Estatal Amazónica (si deseas cambiarla, dímelo)
+Universidad: Universidad Estatal Amazónica
 ---
 
 # Sistema Avanzado de Gestión de Inventario (Python)
